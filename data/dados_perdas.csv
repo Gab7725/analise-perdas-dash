@@ -1,0 +1,6 @@
+﻿Regiao,Tipo Perda,Volume Perdido (m3),Tipo Rede,Data,Tipo Intervencao,Custo (R$),Irregularidade
+Norte,Real,1200,Agua,2025-01-10,Reparo de vazamento,5000,Sim
+Sul,Aparente,800,Esgoto,2025-01-15,Substituicao de hidrômetro,3000,Nao
+Leste,Real,1500,Agua,2025-02-01,Reparo de rede,7000,Sim
+Oeste,Aparente,950,Esgoto,2025-02-10,Regularização,2000,Sim
+Centro,Real,1100,Agua,2025-03-05,Inspeção técnica,4500,Nao
